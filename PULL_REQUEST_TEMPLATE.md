@@ -1,6 +1,6 @@
 # Summary
 
-<Add a summary of your changes here.>
+\<Add a summary of your changes here.\>
 
 # Checklist
 - [ ] Did you add or remove any calls to a service or frontend?
