@@ -1,3 +1,9 @@
+<!-- 
+THIS IS A PUBLIC REPOSITORY - DO NOT PUT ANY SENSITIVE INFORMATION INTO THIS FILE OR ANY OTHER FILE IN THIS REPOSITORY.
+
+THIS INCLUDES PULL REQUESTS, EVEN DRAFTS. If you're unsure what's sensitive, ask the team before making any changes.
+-->
+
 # Summary
 
 _\<Add a summary of your changes here.\>_
