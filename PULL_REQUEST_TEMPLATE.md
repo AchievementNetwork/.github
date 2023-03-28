@@ -10,7 +10,7 @@ _\<Add a summary of your changes here.\>_
 
 # Checklist
 - [ ] Did you add or remove any calls to a service or frontend?
-    - [ ] Update the [API dependency inventory](https://docs.google.com/spreadsheets/d/13fPp3PlnJfcm44PhAw6PdRBhyMhc_FfDIyhcXh_nh5M/edit#gid=1676052919)
+    - [ ] Update the API dependency inventory
 - [ ] Is this a backend service?
     - [ ] Did you add any new endpoints or change the contract/signature of an endpoint?
     	- [ ] Have you updated the OpenAPI specs for this service?
