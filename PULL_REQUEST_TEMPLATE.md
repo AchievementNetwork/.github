@@ -1,4 +1,6 @@
-<!-- 
+<!--
+(This applies to the PR template itself, which is located in the .github repo. Your PR is probably not in a public repository - don't be alarmed.)
+
 THIS IS A PUBLIC REPOSITORY - DO NOT PUT ANY SENSITIVE INFORMATION INTO THIS FILE OR ANY OTHER FILE IN THIS REPOSITORY.
 
 THIS INCLUDES PULL REQUESTS, EVEN DRAFTS. If you're unsure what's sensitive, ask the team before making any changes.
